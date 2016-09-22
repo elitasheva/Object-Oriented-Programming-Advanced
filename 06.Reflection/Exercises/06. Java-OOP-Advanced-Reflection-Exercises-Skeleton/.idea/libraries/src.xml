@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/pr0304Barracks.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/pr02PrivateClassFiddling.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/pr01HarvestingFields.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
